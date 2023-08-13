@@ -7,10 +7,8 @@ woman: are you guys investigating a murder in ... street?
 
 detective 1: who are you?
 
-woman: I saw a person wielding a knife and walk out of the house before you guys went there, I thought I should inform the police. when I got here, I heard the mayor has been murdered. 
+woman: I am a witness to the murder you are investigating. I saw a car coming out of the garage of that house the murder took place
 
-detective 2: How far do you live from the house where the murder took place?
+detective 2: How do you know that the suspect was in that car?
 
-woman: 300 feet probably
-
-
+woman: The car had a window broken and the person driving it had blood on his clothes.
