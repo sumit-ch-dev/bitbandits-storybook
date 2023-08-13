@@ -9,6 +9,10 @@ detective 1: who are you?
 
 woman: I am a witness to the murder you are investigating. I saw a car coming out of the garage of that house the murder took place
 
-detective 2: How do you know that the suspect was in that car?
+detective 1: How do you know that the suspect was in that car?
+
+detective 2: How did you see the car from your house? How far is your house from the house the murder happened?
 
 woman: The car had a window broken and the person driving it had blood on his clothes.
+
+
