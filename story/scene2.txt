@@ -15,4 +15,6 @@ detective 2: How did you see the car from your house? How far is your house from
 
 woman: The car had a window broken and the person driving it had blood on his clothes.
 
+detective 1: Is there anyone else who also saw these instances?
+
 
